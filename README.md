@@ -22,5 +22,7 @@ movie?
 
 The presence of actor names on movie posters will decrease the perceived scariness of the
 movie, as compared to the actor names being absent from the movie poster.
+
 H0: There is no effect of including actor names on horror movie posters
+
 Ha: There is an effect of including actor names on horror movie posters
